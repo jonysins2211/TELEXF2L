@@ -6,30 +6,30 @@ from Script import script  # Custom script file with caption & other settings
 # 🚀 Bot Session and Token Information
 SESSION = environ.get('SESSION', 'Webavbot')  # Pyrogram client session name
 
-API_ID = int(environ.get('API_ID', '16013849'))  # Telegram API ID
-API_HASH = environ.get('API_HASH', 'c8686adc1a0c7cd17f2201c40123ce91')  # Telegram API Hash
+API_ID = int(environ.get('API_ID', '10685201'))  # Telegram API ID
+API_HASH = environ.get('API_HASH', '8e039b83a886a2c2b97309ccc6298c20')  # Telegram API Hash
 BOT_TOKEN = environ.get('BOT_TOKEN', '672782:AAE3VrD2SewKmu6ytwU4H1vRtfc')  # Telegram Bot Token
 
 # 👑, Channels & Logs
-BIN_CHANNEL = int(environ.get("BIN_CHANNEL", '-1003062906567'))  # File storage channel
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", '-1003062906567'))  # General log channel
-PREMIUM_LOGS = int(environ.get("PREMIUM_LOGS", '-1003062906567'))  # Premium user actions log
-VERIFIED_LOG = int(environ.get('VERIFIED_LOG', '-1003062906567'))  # Verified user actions log
+BIN_CHANNEL = int(environ.get("BIN_CHANNEL", '-1001948256614'))  # File storage channel
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", '-1001948256614'))  # General log channel
+PREMIUM_LOGS = int(environ.get("PREMIUM_LOGS", '-1001948256614'))  # Premium user actions log
+VERIFIED_LOG = int(environ.get('VERIFIED_LOG', '-1001948256614'))  # Verified user actions log
 SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "-1003062906567"))
 
 # add admin IDs 11111 2222 3333 and add auth channel IDs -100XXX -100XXX -100XXX
-ADMINS = list(map(int, environ.get('ADMINS', '949657126').split()))  # List of admin user IDs
-AUTH_CHANNEL = list(map(int, environ.get("AUTH_CHANNEL", "-1001547011153").split()))  # Allowed channels for authorization
+ADMINS = list(map(int, environ.get('ADMINS', '9821055601 949657126').split()))  # List of admin user IDs
+AUTH_CHANNEL = list(map(int, environ.get("AUTH_CHANNEL", "-1001640099591").split()))  # Allowed channels for authorization
 
 # username add without @
-OWNER_USERNAME = environ.get("OWNER_USERNAME", 'MLADMINBOT')  # Owner's username
-BOT_USERNAME = environ.get("BOT_USERNAME", 'MLFILETOLINKBOT')  # Bot's username
+OWNER_USERNAME = environ.get("OWNER_USERNAME", 'spidey_professor')  # Owner's username
+BOT_USERNAME = environ.get("BOT_USERNAME", 'telex_file2link_bot')  # Bot's username
 
 # 🔗 Channel & Support Links
-CHANNEL = environ.get('CHANNEL', 'https://t.me/MOVIE_LOVERZZ')  # Updates channel
-SUPPORT = environ.get('SUPPORT', 'https://t.me/AV_SUPRT_GROUP')  # Support group
-HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/ML_FILES/17')  # Verification guide link
-HOW_TO_OPEN = environ.get('HOW_TO_OPEN', 'https://t.me/ML_FILES/17')  # File access guide link
+CHANNEL = environ.get('CHANNEL', 'https://t.me/telexoriginals')  # Updates channel
+SUPPORT = environ.get('SUPPORT', 'https://t.me/telexoriginals')  # Support group
+HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/how_to_download5857/22')  # Verification guide link
+HOW_TO_OPEN = environ.get('HOW_TO_OPEN', 'https://t.me/how_to_download5857/22')  # File access guide link
 
 # ✅ Feature Toggles (True/False)
 VERIFY = environ.get("VERIFY", True)  # Enable user verification
@@ -43,12 +43,12 @@ PUBLIC_FILE_STORE = environ.get('PUBLIC_FILE_STORE', False)  # Public or private
 BATCH_PROTECT_CONTENT = environ.get('BATCH_PROTECT_CONTENT', False)  # Batch file protection
 
 # 🔗 Shortlink Configuration
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')  # Shortener site
-SHORTLINK_API = environ.get('SHORTLINK_API', 'a27e6b177c47ce6a7b22bcbce2235ce66d893ac8')  # API key for shortlink
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'arolinks.com')  # Shortener site
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c2ff1aec20d762edab02832ccd81961579615641')  # API key for shortlink
 
 # 💾 MongoDB Connection Information
-DB_URL = environ.get('DATABASE_URI', "mongodb+srv://primebaby11220:TuGa0I5ZsiC8mp5A@cluster0.df4rivj.mongodb.net/?retryWrites=true&w=majority")  # MongoDB connection URI
-DB_NAME = environ.get('DATABASE_NAME', "primebaby11220")  # MongoDB database name
+DB_URL = environ.get('DATABASE_URI', "mongodb+srv://tgarun163:qgq7VlZ1a4Ke9Dnh@cluster0.7iaqu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # MongoDB connection URI
+DB_NAME = environ.get('DATABASE_NAME', "tgarun163")  # MongoDB database name
 
 # 📸 all Media (Images)
 QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/a319f6b9ce3b993c6e22f.jpg')  # QR Code image
