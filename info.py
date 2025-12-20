@@ -36,7 +36,7 @@ VERIFY = environ.get("VERIFY", True)  # Enable user verification
 FSUB = environ.get("FSUB", True)  # Force Subscribe feature
 ENABLE_LIMIT = environ.get("ENABLE_LIMIT", True)  # Enable file limits
 BATCH_VERIFY = environ.get("BATCH_VERIFY", False)  # Verify files in batch
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))  # Enable channel shortlink creation
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))  # Enable channel shortlink creation
 MAINTENANCE_MODE = environ.get("MAINTENANCE_MODE", False)  # Put bot in maintenance
 PROTECT_CONTENT = environ.get('PROTECT_CONTENT', False)  # Enable content protection
 PUBLIC_FILE_STORE = environ.get('PUBLIC_FILE_STORE', False)  # Public or private file visibility
@@ -51,10 +51,10 @@ DB_URL = environ.get('DATABASE_URI', "mongodb+srv://tgarun163:qgq7VlZ1a4Ke9Dnh@c
 DB_NAME = environ.get('DATABASE_NAME', "tgarun163")  # MongoDB database name
 
 # 📸 all Media (Images)
-QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/a319f6b9ce3b993c6e22f.jpg')  # QR Code image
+QR_CODE = environ.get('QR_CODE', 'https://i.ibb.co/ynwpxb29/photo-2025-06-27-16-23-48-7585956213846704132.jpg')  # QR Code image
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")  # Verify success image
 AUTH_PICS = environ.get('AUTH_PICS', 'https://envs.sh/AwV.jpg')  # Auth step image
-PICS = environ.get('PICS', 'https://graph.org/file/a319f6b9ce3b993c6e22f.jpg')  # Default info image
+PICS = environ.get('PICS', 'https://i.ibb.co/ynwpxb29/photo-2025-06-27-16-23-48-7585956213846704132.jpg')  # Default info image
 FILE_PIC = environ.get('FILE_PIC', 'https://graph.org/file/a319f6b9ce3b993c6e22f.jpg') # file image 
 
 # 📝 File Captions
@@ -71,7 +71,7 @@ VERIFY_EXPIRE = int(environ.get('VERIFY_EXPIRE', 28800))  # Time (in hours) afte
 
 # ⚙️ Worker Configuration
 WORKERS = int(getenv('WORKERS', '20'))  # Number of async workers
-MULTI_CLIENT = True  # Enable multi-client handling (if needed)
+MULTI_CLIENT = False  # Enable multi-client handling (if needed)
 
 # 🔧 App/Heroku Configuration
 name = str(environ.get('name', 'avbotz'))  # Project name
