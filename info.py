@@ -18,7 +18,7 @@ VERIFIED_LOG = int(environ.get('VERIFIED_LOG', '-1001948256614'))  # Verified us
 SUPPORT_GROUP = int(environ.get("SUPPORT_GROUP", "-1003062906567"))
 
 # add admin IDs 11111 2222 3333 and add auth channel IDs -100XXX -100XXX -100XXX
-ADMINS = list(map(int, environ.get('ADMINS', '9821055601 949657126').split()))  # List of admin user IDs
+ADMINS = list(map(int, environ.get('ADMINS', '9821055601').split()))  # List of admin user IDs
 AUTH_CHANNEL = list(map(int, environ.get("AUTH_CHANNEL", "-1001640099591").split()))  # Allowed channels for authorization
 
 # username add without @
