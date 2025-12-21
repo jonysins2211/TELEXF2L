@@ -99,7 +99,7 @@ Nᴀᴍᴇ - {}</b>"""
 
 <b>📥 Download : </b> {}
 
-<b>🚸 Nᴏᴛᴇ : LINK WON'T EXPIRE TILL I DELETE 🤡</b>"""
+<b>🚸 𝙽ᴏᴛᴇ : 𝙼𝚊𝚗𝚊 𝙱𝚘𝚝 𝙽𝚊𝚌𝚑𝚒𝚝𝚑𝚎𝚢 𝙼𝚒 𝙵𝚛𝚒𝚎𝚗𝚍𝚜 𝙺𝚒 𝙺𝚞𝚍𝚊 𝚂𝚑𝚊𝚛𝚎 𝙲𝚑𝚎𝚢𝚊𝚗𝚍𝚒😇</b>"""
 
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {},
 
