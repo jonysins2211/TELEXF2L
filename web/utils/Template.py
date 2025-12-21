@@ -1,12 +1,12 @@
 class avbotz_template(object):
-    NAME = "MOVIE LOVERZ"
+    NAME = "TelexOriginals"
 
     DISCLAIMER = (
         "This website only provides a service to help you play your video online without downloading. "
         "You can report files or videos that contain issues like copyright infringement, +18 content, violence, etc."
     )
 
-    REPORT_LINK = "https://t.me/MLADMINBOT"
+    REPORT_LINK = "https://t.me/Joker44_bot"
 
     COLOURS = {
         "header": {"background": "#48cffe", "color": "#ffffff"},
