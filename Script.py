@@ -62,7 +62,7 @@ Cʜᴀɴɴᴇʟ Uꜱᴀɢᴇ:
 • Uᴘᴅᴀᴛᴇꜱ: @Movie_Loverzz
 • Sᴜᴘᴘᴏʀᴛ: @Mladminbot
 
- <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/mladminbot'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
+ <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/Spidey_Professor'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
 
     CAPTION = """🎬 <i><a href='{}'>{}</a></i>"""
     
@@ -74,8 +74,8 @@ Nᴀᴍᴇ - {}</b>"""
     ABOUT_TXT = """<b>╔══❰ {} ❱═════❍
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/mladminbot'>Bot ᴏᴡɴᴇʀ</a>
-║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/movie_loverzz>ᴍᴏᴠɪᴇ_ʟᴏᴠᴇʀᴢᴢ</a>
+║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Spidey_Professor'>Bot ᴏᴡɴᴇʀ</a>
+║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/TelexOriginals>TelexOriginals</a>
 ║┣⪼⏲️ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ 
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
@@ -125,15 +125,15 @@ Nᴀᴍᴇ - {}</b>"""
     
 <blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
 
- ❏ 𝟹0₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
- ❏ 60₹    ➠    𝟶2 ᴍᴏɴᴛʜ
+ ❏ 25₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
+ ❏ 50₹    ➠    𝟶2 ᴍᴏɴᴛʜ
  
 
 🆔 ᴜᴘɪ ɪᴅ ➩ <code>Msg to admin</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🏷️ <a href='https://t.me/mladminbot'>Contact Admin</a>
+🏷️ <a href='https://t.me/Spidey_Professor'>Contact Admin</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
