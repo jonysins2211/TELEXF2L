@@ -59,10 +59,10 @@ Cʜᴀɴɴᴇʟ Uꜱᴀɢᴇ:
 🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.
 
 📮 Hᴇʟᴘ & Sᴜᴘᴘᴏʀᴛ:
-• Uᴘᴅᴀᴛᴇꜱ: @Movie_Loverzz
-• Sᴜᴘᴘᴏʀᴛ: @Mladminbot
+• Uᴘᴅᴀᴛᴇꜱ: @TelexOriginals
+• Sᴜᴘᴘᴏʀᴛ: @Joker44_bot
 
- <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/Spidey_Professor'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
+ <u><i>ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ  <a href='https://t.me/Joker44_bot'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></u></i></b>"""
 
     CAPTION = """🎬 <i><a href='{}'>{}</a></i>"""
     
@@ -74,7 +74,7 @@ Nᴀᴍᴇ - {}</b>"""
     ABOUT_TXT = """<b>╔══❰ {} ❱═════❍
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Spidey_Professor'>Bot ᴏᴡɴᴇʀ</a>
+║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Joker44_bot'>Bot ᴏᴡɴᴇʀ</a>
 ║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/TelexOriginals>TelexOriginals</a>
 ║┣⪼⏲️ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ 
@@ -133,7 +133,7 @@ Nᴀᴍᴇ - {}</b>"""
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🏷️ <a href='https://t.me/Spidey_Professor'>Contact Admin</a>
+🏷️ <a href='https://t.me/Joker44_bot'>Contact Admin</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
